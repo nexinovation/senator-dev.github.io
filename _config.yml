@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Senator Olorunnisola
+description: Junior Software Developer
+site_title: '@abhn - Senator Olorunnisola'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: senator-dev
+blog_url: https://www.Senator-dev.blogspot.com
+email: senatoreniola@gmail.com
+discord_username: senator_dev
+twitter_username: senator_dev
+instagram_username: senator_dev
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
