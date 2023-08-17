@@ -8,7 +8,7 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: senator-dev
-blog_url: https://www.Senator-dev.blogspot.com
+blog_url: https://senator-dev.blogspot.com
 email: senatoreniola@gmail.com
 discord_username: senator_dev
 twitter_username: senator_dev
