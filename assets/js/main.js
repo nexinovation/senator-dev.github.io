@@ -23,12 +23,12 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
-            title: 'Trek To Bramhatal (Uttarakhand)',
+	    url: 'https://senator-dev.blogspot.com/2023/08/demystifying-python-beginners-guide.html',
+            title: 'DEMYSTIFYING PYTHON: A BEGINNER’S GUIDE',
         },
         {
-            url: 'https://www.nagekar.com/2017/08/privacy.html',
-            title: 'Privacy - How I Converted',
+            url: 'https://senator-dev.blogspot.com/2023/08/embracing-pythonic-path-tales-of-junior.html',
+            title: 'TALES OF A JUNIOR PROGRAMMER',
         },
         {
             url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
