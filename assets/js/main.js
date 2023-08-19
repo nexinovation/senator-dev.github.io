@@ -31,17 +31,17 @@ function blog_posts() {
             title: 'TALES OF A JUNIOR PROGRAMMER',
         },
         {
-            url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
-            title: 'Jagriti Yatra 2017',
+            url: 'https://senator-dev.blogspot.com/2023/04/the-future-of-wearable.html',
+            title: 'THE FUTURE OF WEARABLE',
         },
         {
-            url: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Private Cloud Part 2 | Encrypted Storage With NextCloud',
+            url: 'https://senator-dev.blogspot.com/2023/04/5-tips-to-improve-your-time-management.html',
+            title: '5 TIPS TO IMPROVE YOUR TIME MANAGEMENT SKILLS',
         },
-        {
-            url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
-            title: 'ELI5 - How HTTPS Works',
-        },
+        //{
+          //  url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
+           // title: 'ELI5 - How HTTPS Works',
+       // },
     ];
 
     let post_html = [];
@@ -52,7 +52,7 @@ function blog_posts() {
         
         if(post.tags) {
             tags = post.tags.map(tag => {
-                return `<a href="https://www.nagekar.com/tags#${tag}">${tag}</a>`
+                return `<a href="https://senator-dev.blogspot.com/tags#${tag}">${tag}</a>`
             })
         }
 
@@ -76,11 +76,11 @@ function blog_posts() {
 
     // for the more posts link
     let post_template = `
-    <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
+    <div class="blog-post more-blogs" onclick="blog_link_click('https://senator-dev.blogspot.com');">
 
         <div class="blog-link">
 
-            <h3><a href="https://www.nagekar.com">Visit the blog for more posts</a></h3>            
+            <h3><a href="https://senator-dev.blogspot.com">Visit the blog for more posts</a></h3>            
 
         </div>
 
