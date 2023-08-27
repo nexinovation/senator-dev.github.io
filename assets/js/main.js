@@ -36,7 +36,7 @@ function blog_posts() {
         },
         {
             url: 'https://senator-dev.blogspot.com/2023/04/5-tips-to-improve-your-time-management.html',
-            title: '5 TIPS TO IMPROVE YOUR TIME MANAGEMENT SKILLS',
+            title: 'TIPS TO IMPROVE YOUR TIME MANAGEMENT SKILLS',
         },
         //{
           //  url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
