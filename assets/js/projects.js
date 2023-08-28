@@ -21,8 +21,8 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
+            link: 'https://github.com/senator-dev/Day-1-project',
+            title: 'Tip Calculator',
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['Semantic UI', 'Jekyll'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
@@ -30,8 +30,8 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
+            link: 'https://github.com/senator-dev/Day-2-project',
+            title: 'Treasure Island',
             demo: false,
             technologies: ['Android', 'OpenCV'],
             description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
