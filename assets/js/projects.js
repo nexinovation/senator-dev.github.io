@@ -20,11 +20,11 @@ let render_projects = (slug) => {
             categories: ['featured', 'webdev']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/tip cal.jpg',
             link: 'https://github.com/senator-dev/Day-1-project',
             title: 'Tip Calculator',
             demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
+            technologies: ['python'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
             categories: ['featured', 'webdev']
         },
