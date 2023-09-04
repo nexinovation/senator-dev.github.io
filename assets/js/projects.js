@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'webdev']
         },
         {
-            image: 'assets/images/collage.jpg',
+            image: 'assets/images/tresure island.jpg',
             link: 'https://github.com/senator-dev/Day-2-project',
             title: 'Treasure Island',
             demo: false,
@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'native']
         },
         {
-            image: 'assets/images/mpw.jpg',
+            image: 'assets/images/rps.jpg',
             link: 'https://github.com/senator-dev/Day-3-project',
             title: 'Rock, Paper, Scissors',
             demo: 'https://www.nagekar.com/mpw',
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/social-share-count.jpeg',
+            image: 'assets/images/passowrd gen.jpg',
             link: 'https://github.com/senator-dev/Day-4-project',
             title: 'Password Generator',
             demo: false,
