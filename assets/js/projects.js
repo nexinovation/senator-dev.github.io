@@ -57,10 +57,10 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/data-destroyer.png',
-            link: 'https://github.com/abhn/data-destroyer-gui',
-            title: 'Data Destroyer',
+            link: 'https://github.com/senator-dev/Day-8-project',
+            title: 'Caesar-Cipher',
             demo: false,
-            technologies: ['C++', 'Qt'],
+            technologies: ['Python'],
             description: "Native GUI wrapper for GNU coreutils tool 'dd'",
             categories: ['native']
         },
