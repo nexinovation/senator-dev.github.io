@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/data-destroyer.png',
+            image: 'assets/images/caesar cipher.jpeg',
             link: 'https://github.com/senator-dev/Day-8-project',
             title: 'Caesar-Cipher',
             demo: false,
